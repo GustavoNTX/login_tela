@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(180deg, red, #ffffff);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login-image {
+    width: 200px;
+    height: auto;
+    object-fit: contain;
+    margin-bottom: 1rem;
+}
+
+.login-form {
+    width: 100%;
+    max-width: 25rem;
+    border-radius: 15px;
+}

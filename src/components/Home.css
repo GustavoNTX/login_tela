@@ -1,0 +1,25 @@
+.alert {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.list-group-item {
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    margin-bottom: 10px;
+}
+
+.list-group-item:hover {
+    background-color: #e9ecef;
+}
+
+.btn-dark {
+    background-color: #333;
+    color: #fff;
+    font-weight: bold;
+}
+
+.btn-dark:hover {
+    background-color: #555;
+}

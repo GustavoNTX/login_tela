@@ -1,0 +1,56 @@
+.card {
+    width: 25rem;
+    border-radius: 15px;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.input-group {
+    margin-bottom: 1rem;
+}
+
+.input-group-text {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+}
+
+.form-control {
+    border-radius: 0.375rem;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+button {
+    background-color: #b93a2a;
+    color: white;
+    border: none;
+    border-radius: 0.375rem;
+    padding: 0.5rem 0;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #9c2e23;
+}
+
+.alert {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+p a {
+    text-decoration: none;
+    color: #b93a2a;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
